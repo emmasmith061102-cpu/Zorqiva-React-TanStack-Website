@@ -1,0 +1,3 @@
+# Optional: use Bun as in the original Zorqiva repository.
+[install]
+exact = false
